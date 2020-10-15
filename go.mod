@@ -1,3 +1,3 @@
-module github.com/zztkm/fsq
+module github.com/zztkm/fq
 
 go 1.13
