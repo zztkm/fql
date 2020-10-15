@@ -1,4 +1,4 @@
-# fsq
+# fql
 
 SQL-like query language for file server
 
